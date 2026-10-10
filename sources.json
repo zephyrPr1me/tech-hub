@@ -1,0 +1,204 @@
+{
+  "telegram": [
+    {
+      "id": "itpark_uz",
+      "name": "IT Park Uzbekistan",
+      "target": "@itpark_uz",
+      "default_category": "ecosystem",
+      "is_active": true
+    },
+    {
+      "id": "digital_uz",
+      "name": "Министерство цифровых технологий",
+      "target": "@mitcuz",
+      "default_category": "govtech",
+      "is_active": true
+    },
+    {
+      "id": "spot_uz",
+      "name": "Spot Tech",
+      "target": "@spot_uz",
+      "default_category": "business",
+      "is_active": true
+    },
+    {
+      "id": "uzbekvc",
+      "name": "Узбекский VC",
+      "target": "@uzbekvc",
+      "default_category": "venture",
+      "is_active": true
+    },
+    {
+      "id": "umedschannel",
+      "name": "Umed Rahimov",
+      "target": "@umedschannel",
+      "default_category": "media",
+      "is_active": true
+    },
+    {
+      "id": "techstans",
+      "name": "TechStans Podcast",
+      "target": "@techstans",
+      "default_category": "media",
+      "is_active": true
+    },
+    {
+      "id": "lscauz",
+      "name": "IT Blog by LSCA",
+      "target": "@lscauz",
+      "default_category": "media",
+      "is_active": true
+    },
+    {
+      "id": "startupper_uz",
+      "name": "StartUpper",
+      "target": "@startupper_uz",
+      "default_category": "startup",
+      "is_active": true
+    },
+    {
+      "id": "digitalgeneration_uz",
+      "name": "Digital Generation Uzbekistan",
+      "target": "@digitalgeneration_uz",
+      "default_category": "community",
+      "is_active": true
+    },
+    {
+      "id": "startup_choyxona",
+      "name": "Startup Choyxona",
+      "target": "@startup_choyxona",
+      "default_category": "startup",
+      "is_active": true
+    },
+    {
+      "id": "aliftechuz",
+      "name": "Alif Tech Uzbekistan",
+      "target": "@aliftechuz",
+      "default_category": "fintech",
+      "is_active": true
+    },
+    {
+      "id": "yandexuzdev",
+      "name": "Yandex Uzbekistan for Developers",
+      "target": "@yandexuzdev",
+      "default_category": "tech",
+      "is_active": true
+    },
+    {
+      "id": "hackonnect",
+      "name": "Hackonnect",
+      "target": "@hackonnect",
+      "default_category": "community",
+      "is_active": true
+    },
+    {
+      "id": "cafa_official_chanel",
+      "name": "Central Asian Fintech Association (CAFA)",
+      "target": "@cafa_official_chanel",
+      "default_category": "fintech",
+      "is_active": true
+    },
+    {
+      "id": "headhunter_uz",
+      "name": "hh.uz – работа в Узбекистане",
+      "target": "@headhunter_uz",
+      "default_category": "business",
+      "is_active": true
+    },
+    {
+      "id": "pivotuzbekistan",
+      "name": "Pivot.uz | Startap va texnologiya",
+      "target": "@pivotuzbekistan",
+      "default_category": "media",
+      "is_active": true
+    },
+    {
+      "id": "wallet_news_uz",
+      "name": "Walt Yangiliklari (sobiq Telegramdagi Hamyon)",
+      "target": "@wallet_news_uz",
+      "default_category": "fintech",
+      "is_active": true
+    }
+  ],
+  "rss": [
+    {
+      "id": "gazeta_rss",
+      "name": "Gazeta.uz",
+      "url": "https://www.gazeta.uz/ru/feeds/",
+      "default_category": "general",
+      "is_active": true
+    },
+    {
+      "id": "techcrunch_ai",
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "default_category": "global_ai",
+      "is_active": true
+    },
+    {
+      "id": "spot_rss",
+      "name": "Spot.uz RSS",
+      "url": "https://www.spot.uz/ru/rss/",
+      "default_category": "business",
+      "is_active": true
+    },
+    {
+      "id": "kursiv_rss",
+      "name": "Kursiv Media Uzbekistan RSS",
+      "url": "https://uz.kursiv.media/feed/",
+      "default_category": "business",
+      "is_active": true
+    },
+    {
+      "id": "uzdaily_rss",
+      "name": "UzDaily RSS",
+      "url": "https://www.uzdaily.uz/rss/",
+      "default_category": "general",
+      "is_active": true
+    },
+    {
+      "id": "celion_rss",
+      "name": "Celion News RSS",
+      "url": "https://celion.io/feed/",
+      "default_category": "tech",
+      "is_active": true
+    }
+  ],
+  "web": [
+    {
+      "id": "itpark_site",
+      "name": "IT Park Web",
+      "url": "https://it-park.uz/ru/itpark/news",
+      "default_category": "official",
+      "is_active": true
+    },
+    {
+      "id": "kursiv_web",
+      "name": "Kursiv Media Uzbekistan (IT)",
+      "url": "https://uz.kursiv.media/ru/tag/it/",
+      "default_category": "business",
+      "is_active": true
+    },
+    {
+      "id": "uzdaily_web",
+      "name": "UzDaily (Технологии)",
+      "url": "https://www.uzdaily.uz/ru/section/technologies/",
+      "default_category": "general",
+      "is_active": true
+    },
+    {
+      "id": "celion_web",
+      "name": "Celion News",
+      "url": "https://celion.io/",
+      "default_category": "tech",
+      "is_active": true
+    },
+    {
+      "id": "spot_web",
+      "name": "Spot.uz (Технологии)",
+      "url": "https://www.spot.uz/ru/tech/",
+      "default_category": "business",
+      "is_active": true
+    }
+  ]
+}
